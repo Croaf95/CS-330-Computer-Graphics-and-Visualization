@@ -1,4 +1,4 @@
-## CS 330 Portfolio Reflection
+# CS 330 Portfolio Reflection
 
 # How do I approach designing software?
 

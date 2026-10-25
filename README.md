@@ -1,6 +1,6 @@
 # CS 330 Portfolio Reflection
 
-# How do I approach designing software?
+## How do I approach designing software?
 
 I approach software design by first identifying the project requirements and determining how the individual components will work together to achieve the desired outcome. Throughout this course, I learned the importance of planning before coding and breaking larger problems into smaller, manageable tasks. By creating a design plan before implementation, I was able to stay organized and make more effective decisions during development.
 
